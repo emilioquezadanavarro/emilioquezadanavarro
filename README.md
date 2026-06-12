@@ -1,36 +1,32 @@
 # Hi 👋 I'm Emilio! 
 
-**Product-minded Junior AI Engineer | Generative AI & Multi-Agent Architectures**
+Junior AI Engineer specializing in Generative AI, agentic workflows, and automation pipelines driven by tangible business logic.
 
-I am an AI Engineer based in Berlin, Germany. I specialize in Generative AI, model-agnostic Large Language Model (LLM) integrations, and multi-agent architectures. With a strong foundation in operational reliability and high-volume data workflows, I focus deeply on architecting scalable solutions with the end customer in mind. 
+Experienced in developing full stack applications and building RAG enhanced systems using Python, vector databases, real-time AI web search integrations, and observability tools.
 
-Currently, I am building RAG-enhanced systems using Python, vector databases, real-time AI web search integrations as well as working on **AWS Cloud skills**. 
+Coming from a strong foundation in operational reliability and high volume data workflows, my goal is to bridge the gap between conceptual architectures and scalable, customer facing AI solutions deployed in live production settings.
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Skills
 
-**AI & Machine Learning**
-![Generative AI](https://img.shields.io/badge/Generative_AI-FF9900?style=for-the-badge) 
-![RAG](https://img.shields.io/badge/RAG-000000?style=for-the-badge) 
-![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge) 
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge) 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-00C7B7?style=for-the-badge)
+**AI & ML:**<br>
+GenAI, RAG, Agentic AI, LLMs, NLP, Multi Agent Architectures
 
-**Programming & Databases**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Chroma DB](https://img.shields.io/badge/Chroma_DB-FF4F00?style=for-the-badge) 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
+**AI Frameworks:**<br>
+LLM Orchestration, LangChain, Model Agnostic API Integrations (OpenAI, Anthropic, Google Gemini), RAG Frameworks
 
-**Backend & Tools**
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![Langfuse](https://img.shields.io/badge/Langfuse-E44D26?style=for-the-badge) 
+**AI Tools & Automation:**<br>
+n8n, Cursor, Claude Code, Antigravity, ElevenLabs suite
+
+**Programming & DBs:**<br>
+Python, SQL, PostgreSQL, Vector DBs (Chroma, Supabase)
+
+**Full-Stack & Web:**<br>
+Flask, FastAPI, REST APIs, Web Security, Node.js, JavaScript
+
+**Cloud & DevOps:**<br>
+AWS, Docker, Langfuse, CI/CD, Git, TDD
 
 ---
 
