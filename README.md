@@ -32,13 +32,17 @@ AWS, Docker, Langfuse, CI/CD, Git, TDD
 
 ## 🚀 Featured Projects
 
-* **[Resonate App 🌿]** Multi-Agent Architecture featuring a 5-agent system using GPT and Gemini for specialized tasks. It includes a RAG-enhanced conversational memory using LangChain, ChromaDB, and Tavily for real-time web data. Built with an advanced "fail-closed" safety layer to screen inputs for toxicity.
+* **[Resonate App 🌿]**<br>
+Multi-Agent Architecture featuring a 5-agent system using GPT and Gemini for specialized tasks. It includes a RAG-enhanced conversational memory using LangChain, ChromaDB, and Tavily for real-time web data. Built with an advanced "fail-closed" safety layer to screen inputs for toxicity.
 
-* **[Franz, Studio Assistant 🤖]** RAG-powered chatbot built with LangChain, ChromaDB, and the Claude API, grounding every reply in the studio's own documentation rather than the model's general knowledge. Features a two-layer guardrail, a regex-first topic filter that falls back to an LLM classifier only on ambiguous input, plus rate limiting, message-length, and history caps to control cost and abuse. Automatically extracts and persists booking leads to Supabase mid-conversation. Backed by a custom eval suite (retrieval recall@k/MRR, guard precision/recall, LLM-as-judge answer quality) and full request tracing via LangSmith, deployed on Streamlit Community Cloud.
+* **[Franz, Studio Assistant 🤖]**<br>
+RAG-powered chatbot built with LangChain, ChromaDB, and the Claude API, grounding every reply in the studio's own documentation rather than the model's general knowledge. Features a two-layer guardrail, a regex-first topic filter that falls back to an LLM classifier only on ambiguous input, plus rate limiting, message-length, and history caps to control cost and abuse. Automatically extracts and persists booking leads to Supabase mid-conversation. Backed by a custom eval suite (retrieval recall@k/MRR, guard precision/recall, LLM-as-judge answer quality) and full request tracing via LangSmith, deployed on Streamlit Community Cloud.
   
-* **[MovieWeb App]** A full-stack, multi-user movie management application developed using Flask, SQLAlchemy, and SQLite. Features OMDb API integration for real-time data, complete CRUD functionality, and personalized user views.
+* **[MovieWeb App 🎬]**<br>
+A full-stack, multi-user movie management application developed using Flask, SQLAlchemy, and SQLite. Features OMDb API integration for real-time data, complete CRUD functionality, and personalized user views.
   
-* **[MasterBlog - API]** A RESTful Flask API supporting full CRUD functionality, dynamic sorting, and search. Implemented robust security with rate limiting and CORS configuration.
+* **[MasterBlog - API ✍️]**<br>
+A RESTful Flask API supporting full CRUD functionality, dynamic sorting, and search. Implemented robust security with rate limiting and CORS configuration.
 
 ---
 
