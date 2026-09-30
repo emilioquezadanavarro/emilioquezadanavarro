@@ -1,32 +1,44 @@
 # Hi 👋 I'm Emilio! 
 
-Junior AI Engineer specializing in Generative AI, agentic workflows, and automation pipelines driven by tangible business logic.
+Junior AI Engineer specializing in Generative AI, agentic workflows, and automation pipelines.
 
-Experienced in developing full stack applications and building RAG enhanced systems using Python, vector databases, real-time AI web search integrations, and observability tools.
+Experienced across the AI pipeline: Python, multi-provider LLM integration, vector databases, real-time web search integrations and observability tooling. Building systems that are tested and traceable. 
 
-Coming from a strong foundation in operational reliability and high volume data workflows, my goal is to bridge the gap between conceptual architectures and scalable, customer facing AI solutions deployed in live production settings.
+Six years in operational reliability, cutting rollout times and reducing fault rates across high-volume workflows, shapes how I build now. 
+
+My goal is bridging conceptual architectures and scalable, customer-facing AI solutions that hold up in live production.
+
 
 ---
 
 ## 🛠️ Technical Skills
 
-**AI & ML:**<br>
-GenAI, RAG, Agentic AI, LLMs, NLP, Multi Agent Architectures
+**AI & LLM Core:**<br>
+Generative AI, LLMs, Retrieval-Augmented Generation (RAG), Agentic AI / Multi-Agent Systems, Prompt Engineering, LLM Evaluation, Text Preprocessing & Embeddings
 
-**AI Frameworks:**<br>
-LLM Orchestration, LangChain, Model Agnostic API Integrations (OpenAI, Anthropic, Google Gemini), RAG Frameworks
+**AI Frameworks & Orchestration:**<br>
+LangChain, Hand-rolled Agent Orchestration (multi-hop tool-calling on raw SDKs), Model-agnostic API Integration (OpenAI, Anthropic, Google Gemini), n8n
 
-**AI Tools & Automation:**<br>
-n8n, Cursor, Claude Code, Antigravity, ElevenLabs suite
+**Evaluation & Observability:**<br>
+LangSmith, Langfuse, Custom Evaluation Harnesses, Hallucination/Grounding Testing
 
-**Programming & DBs:**<br>
-Python, SQL, PostgreSQL, Vector DBs (Chroma, Supabase)
+**Retrieval & Vector Data:**<br>
+ChromaDB, Supabase, Embeddings, Semantic Search
 
-**Full-Stack & Web:**<br>
-Flask, FastAPI, REST APIs, Web Security, Node.js, JavaScript
+**Backend & Data:**<br>
+Python, Flask, FastAPI, REST API, SQL, PostgreSQL, SQLAlchemy, JavaScript, HTML/CSS, Jinja2
 
-**Cloud & DevOps:**<br>
-AWS, Docker, Langfuse, CI/CD, Git, TDD
+**Cloud & Infrastructure:**<br>
+AWS (Lambda, RDS, S3, CloudWatch, IAM), Terraform, AWS CDK, Docker, GitHub Actions CI/CD, OIDC Keyless Authentication
+
+**Security:**<br>
+JWT Auth, Row-level Security, Encrypted-field Search / Blind-Indexing
+
+**Practices:**<br>
+TDD, Version Control (GitHub), Incident Response & Root-Cause Analysis, Technical Documentation
+
+**AI-Native Dev Tools:**<br>
+Claude Code, Cursor, Codex
 
 ---
 
